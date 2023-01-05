@@ -1,0 +1,14 @@
+{
+  "correctStandardUsername": "standard_user",
+  "correctPassword": "secret_sauce",
+  "errorIncorrectUserOrPassword" : "Epic sadface: Username and password do not match any user in this service",
+  "errorLockedUsername" : "Epic sadface: Sorry, this user has been locked out.",
+  "errorEmptyPassword" : "Epic sadface: Password is required",
+  "errorEmptyUsername" : "Epic sadface: Username is required",
+  "lockedUsername": "locked_out_user",
+  "performanceUsername": "performance_glitch_user",
+  "problemUsername": "problem_user"
+
+
+
+}
