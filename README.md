@@ -5,7 +5,7 @@
 4.	When the Cypress GUI is open, go to the new window and select the “E2E Testing” option
 5.	Select Chrome and “Start E2E Testing in Chrome”
 6.	Select the Login spec, inside cypress/e2e
-7.	Now the execution start
+7.	Now the execution starts
  
 
 
